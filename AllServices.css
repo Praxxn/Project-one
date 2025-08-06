@@ -184,7 +184,7 @@ a{
   border: 1.5px solid #e0e0e0; 
   padding: 3vw;
   width: 90%;
-  max-width: 400px;
+  width: 89vw;
   border-radius: 3vw;
   margin-left:2%;
   box-shadow: 0 0 10px rgba(0,0,0,0.05);
@@ -192,6 +192,7 @@ a{
 
 .book-now-form h2 {
   text-align: center;
+  font-size:5vw;
   color: #2a5243;
   margin-bottom: 1.5vw;
 }
@@ -204,9 +205,8 @@ a{
   margin-bottom: 1.5vw;
   width: 100%;
   color: #555555;
-  font-size: 1vw;
+  font-size: 3vw;
   border-radius: 5px;
-  font-size: 16px;
 }
 
 .book-now-form input:focus,
@@ -229,7 +229,7 @@ a{
   cursor: pointer;
   border-radius: 5px;
   width: 100%;
-  font-size: 16px;
+  font-size: 3vw;
   transition: all 0.3s ease;
 }
 
